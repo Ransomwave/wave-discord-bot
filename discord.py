@@ -87,4 +87,4 @@ async def invite(ctx):
     await ctx.send('Invite me to **YOUR SERVER** with this link! 👉 https://discordapp.com/oauth2/authorize?client_id=660140130454994964&scope=bot&permissions=8')
 
 
-client.run(os.environ['NjYwMTQwMTMwNDU0OTk0OTY0.XmuOKw.PbOg37WnaCVyOMzkZ8d3cdEhJ-o'])
+client.run(os.environ['token'])
