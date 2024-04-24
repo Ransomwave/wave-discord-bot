@@ -1,1 +1,4 @@
-discord
+aiohttp==3.9.5
+discord.py==2.3.2
+googletrans==3.0.0
+praw==7.7.1
